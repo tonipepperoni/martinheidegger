@@ -1,0 +1,25 @@
+#this should probably be arranged as a vector
+
+question {
+
+type(word} {
+case word.name == 'being' return ontological;
+case word.name == 'entity' return ontic;
+}
+
+terms(word) {
+case word.name == 'being' return existentials;
+case word.name == 'entity' return categories;
+}
+
+status_of_occurence(word) {
+case word.name == 'being' return factical;
+case word.name == 'entity' return factual;
+}
+
+type_of_self_awareness(word) {
+case word.name == 'being' return existential;
+case word.name == 'existential' return existentiell; 
+}
+
+}
