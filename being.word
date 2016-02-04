@@ -10,4 +10,8 @@ being.qua { properties[]; }         # static structural things
 being.in_a_world { }               # dynamic relations, how to represent... perhaps a *pointer?
 
 
+let Being = indefinable = not an entity 
+Being != substance != attribute
+
+
 
