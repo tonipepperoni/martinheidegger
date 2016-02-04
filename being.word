@@ -7,6 +7,6 @@ let being != Being
 let time.horizon = ?
 
 being.qua { properties[]; }               
-being.in_the_world { }               # how to represnet?
+being.in_the_world { }               # how to represnt?
 
 
