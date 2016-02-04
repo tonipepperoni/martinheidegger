@@ -7,3 +7,12 @@ being_there = being<living> = being that acts.
 Dasein = being<living> 
 
 
+let acitvity[0] = the question of its own being 
+
+Dasein { 
+ activitiy[]
+ 
+ function __constructor() {
+      activity[0] = question(being)
+ }
+ }
