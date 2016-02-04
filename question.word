@@ -22,4 +22,14 @@ case word.name == 'being' return existential;
 case word.name == 'existential' return existentiell; 
 }
 
+categorizing() {
 }
+
+conceptualizing() {
+}
+
+
+}
+
+
+
