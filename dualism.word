@@ -1,1 +1,6 @@
 
+dualism {
+  object() {}
+  subject() {}
+}
+dualism.object() != dualism.subject()
