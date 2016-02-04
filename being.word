@@ -4,9 +4,9 @@ let being = substance_attribute or subject_object
 
 let being != Being
 
-let horizon = ?
+let time.horizon = ?
 
-being_qua { properties[]; }               
-being_in_the_world { }               # how to represnet?
+being.qua { properties[]; }               
+being.in_the_world { }               # how to represnet?
 
 
