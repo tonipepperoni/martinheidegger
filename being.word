@@ -6,7 +6,8 @@ let being != Being
 
 let time.horizon = ?
 
-being.qua { properties[]; }               
-being.in_the_world { }               # how to represnt?
+being.qua { properties[]; }         # static structural things      
+being.in_a_world { }               # dynamic relations, how to represent... perhaps a *pointer?
+
 
 
